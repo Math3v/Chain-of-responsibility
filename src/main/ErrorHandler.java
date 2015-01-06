@@ -1,9 +1,6 @@
 package main;
 
 abstract public class ErrorHandler {
-	public static final int MINOR = 0;
-	public static final int MAJOR = 1;
-	public static final int FATAL = 3;
 	
 	private ErrorHandler next;
 	
