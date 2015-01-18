@@ -3,4 +3,4 @@ ChainOfResponsibility
 
 Simple chain of responsibility example
 
-![promisechains](./ChainOfResponsibility.png)
+![promisechains](./ChainOfResponsibility1.png)
